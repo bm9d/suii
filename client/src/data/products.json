@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1",
+    "name": "Velvet Dreams",
+    "brand": "Maison Luxe",
+    "price": 198,
+    "category": "women",
+    "scentType": "oriental",
+    "description": "A luxurious oriental fragrance that captures the essence of midnight romance. Rich rose petals blend seamlessly with warm sandalwood, creating an intoxicating scent that lingers beautifully on the skin.",
+    "notes": {
+      "top": ["Bergamot", "Pink Pepper"],
+      "middle": ["Rose", "Jasmine", "Iris"],
+      "base": ["Sandalwood", "Vanilla", "Musk"]
+    },
+    "image": "https://images.unsplash.com/photo-1591035897819-f4bdf739f446?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1591035897819-f4bdf739f446?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600",
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.8,
+    "reviewCount": 127,
+    "sizes": [
+      { "size": "50ml", "price": 158 },
+      { "size": "100ml", "price": 198 },
+      { "size": "150ml", "price": 248 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Urban Pulse",
+    "brand": "Neo Scents",
+    "price": 156,
+    "category": "unisex",
+    "scentType": "fresh",
+    "description": "A modern fresh fragrance that captures the energy of city life. Clean citrus notes blend with aquatic elements for an invigorating scent experience.",
+    "notes": {
+      "top": ["Lemon", "Bergamot", "Marine Notes"],
+      "middle": ["Lavender", "Green Apple", "Geranium"],
+      "base": ["Cedar", "White Musk", "Amber"]
+    },
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.6,
+    "reviewCount": 89,
+    "sizes": [
+      { "size": "50ml", "price": 126 },
+      { "size": "100ml", "price": 156 },
+      { "size": "150ml", "price": 196 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "3",
+    "name": "Heritage Woods",
+    "brand": "Artisan House",
+    "price": 205,
+    "category": "men",
+    "scentType": "woody",
+    "description": "A sophisticated woody fragrance inspired by ancient forests. Rich cedar and oak blend with warm spices for a masculine and timeless scent.",
+    "notes": {
+      "top": ["Black Pepper", "Cardamom", "Grapefruit"],
+      "middle": ["Cedar", "Vetiver", "Sage"],
+      "base": ["Oak", "Leather", "Tobacco"]
+    },
+    "image": "https://images.unsplash.com/photo-1615634260167-c8cdede054de?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.9,
+    "reviewCount": 156,
+    "sizes": [
+      { "size": "50ml", "price": 165 },
+      { "size": "100ml", "price": 205 },
+      { "size": "150ml", "price": 255 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "Pure Essence",
+    "brand": "Crystal Elements",
+    "price": 134,
+    "category": "women",
+    "scentType": "clean",
+    "description": "A minimalist clean fragrance that embodies purity and simplicity. Fresh white florals combined with clean musks create an effortlessly elegant scent.",
+    "notes": {
+      "top": ["White Tea", "Lily of the Valley", "Cucumber"],
+      "middle": ["White Rose", "Peony", "Freesia"],
+      "base": ["Clean Musk", "Blonde Woods", "Soft Amber"]
+    },
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.4,
+    "reviewCount": 78,
+    "sizes": [
+      { "size": "50ml", "price": 104 },
+      { "size": "100ml", "price": 134 },
+      { "size": "150ml", "price": 174 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "Midnight Rose",
+    "brand": "Luxe Parfums",
+    "price": 189,
+    "category": "women",
+    "scentType": "oriental",
+    "description": "Deep, mysterious blend with rose and sandalwood that captures the essence of midnight romance.",
+    "notes": {
+      "top": ["Dark Rose", "Black Currant"],
+      "middle": ["Bulgarian Rose", "Oud", "Patchouli"],
+      "base": ["Sandalwood", "Dark Vanilla", "Incense"]
+    },
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.7,
+    "reviewCount": 203,
+    "sizes": [
+      { "size": "50ml", "price": 149 },
+      { "size": "100ml", "price": 189 },
+      { "size": "150ml", "price": 239 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "Ocean Breeze",
+    "brand": "Aqua Scents",
+    "price": 145,
+    "category": "unisex",
+    "scentType": "fresh",
+    "description": "Fresh aquatic notes with citrus undertones that evoke ocean waves and sea spray.",
+    "notes": {
+      "top": ["Sea Salt", "Lime", "Aquatic Notes"],
+      "middle": ["Seaweed", "Driftwood", "Marine Accord"],
+      "base": ["Ambergris", "White Musk", "Cedar"]
+    },
+    "image": "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.5,
+    "reviewCount": 134,
+    "sizes": [
+      { "size": "50ml", "price": 115 },
+      { "size": "100ml", "price": 145 },
+      { "size": "150ml", "price": 185 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "Golden Amber",
+    "brand": "Oriental House",
+    "price": 225,
+    "category": "women",
+    "scentType": "oriental",
+    "description": "Warm, oriental fragrance with amber and vanilla that creates a luxurious and sensual experience.",
+    "notes": {
+      "top": ["Saffron", "Orange Blossom"],
+      "middle": ["Golden Amber", "Turkish Rose", "Cinnamon"],
+      "base": ["Madagascar Vanilla", "Benzoin", "Sandalwood"]
+    },
+    "image": "https://images.unsplash.com/photo-1615634260167-c8cdede054de?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.8,
+    "reviewCount": 167,
+    "sizes": [
+      { "size": "50ml", "price": 185 },
+      { "size": "100ml", "price": 225 },
+      { "size": "150ml", "price": 275 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Garden Whisper",
+    "brand": "Botanical Blends",
+    "price": 172,
+    "category": "women",
+    "scentType": "floral",
+    "description": "A delicate floral bouquet that captures the essence of a blooming garden in spring.",
+    "notes": {
+      "top": ["Green Leaves", "Dewdrops", "Pink Grapefruit"],
+      "middle": ["Peony", "Lily", "Violet"],
+      "base": ["White Musk", "Blonde Woods", "Soft Amber"]
+    },
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400",
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600"
+    ],
+    "rating": 4.6,
+    "reviewCount": 92,
+    "sizes": [
+      { "size": "50ml", "price": 142 },
+      { "size": "100ml", "price": 172 },
+      { "size": "150ml", "price": 212 }
+    ],
+    "featured": false
+  }
+]
